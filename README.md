@@ -8,11 +8,11 @@ Now it is written in Next.js.
 
 ## 使用Vercel部署
 
-[点击此处](https://vercel.com/new/import?s=https%3A%2F%2Fgithub.com%2FhiDandelion%2Fshizuku-launcher-next)前往Vercel并导入此项目。您无需更改默认的设置即可完成部署。
+[点击此处](https://vercel.com/new/import?s=https%3A%2F%2Fgithub.com%2FKwok1am%2Fshizuku-launcher-next)前往Vercel并导入此项目。您无需更改默认的设置即可完成部署。
 
 ## 使用Netlify部署
 
-[点击此处](https://app.netlify.com/start/repos/hiDandelion%2Fshizuku-launcher-next)前往Netlify并导入此项目。您无需更改默认的设置即可完成部署。
+[点击此处](https://app.netlify.com/start/repos/Kwok1am%2Fshizuku-launcher-next)前往Netlify并导入此项目。您无需更改默认的设置即可完成部署。
 
 ## 更改默认的远端地址
 
