@@ -67,7 +67,7 @@ export default function App() {
   const instanceStates = new Map([[0, "正在启动"], [16, "正在运行"], [32, "正在关机"], [48, "已终止"], [64, "正在停止"], [80, "已停止"]]);
 
 
-  const backend = ["/api","https://shizuku-k.koyeb.app","https://gcp-project-354317.df.r.appspot.com","https://launcher-backend.team-1256715.repl.co","https://render-backend-azkc.onrender.com"]
+  const backend = ["/api","https://shizuku-goo.koyeb.app","https://gcp-project-354317.df.r.appspot.com","https://launcher-backend.team-1256715.repl.co","https://render-backend-azkc.onrender.com"]
   const backendDetail = ["Vercel","Koyeb","Google","Replit","Render"]
 
   //Credential States
